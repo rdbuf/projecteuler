@@ -1,2 +1,1 @@
-# projecteuler
-Solutions for the projecteuler.net problems
+![Stats](https://projecteuler.net/profile/pikulin.png)
