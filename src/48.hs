@@ -1,0 +1,1 @@
+main = putStrLn . ((-10 +) . length >>= drop) . show . sum . map (id >>= (^)) $ [1..1000]
